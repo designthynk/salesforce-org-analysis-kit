@@ -12,6 +12,9 @@ Automated framework for Salesforce org analysis, designed for **merger/acquisiti
 
 Merging Salesforce orgs requires deep visibility into what exists, what is used, and what is broken. This toolkit provides the raw data and structured AI prompts to turn a black-box org into a clear migration plan.
 
+<img width="2816" height="1536" alt="Gemini_Generated_Image_vbnj64vbnj64vbnj" src="https://github.com/user-attachments/assets/59bd0bbe-8f33-4ac2-9166-36892f506717" />
+
+
 ### Key Capabilities
 
 | Feature | Description |
